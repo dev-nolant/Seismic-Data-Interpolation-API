@@ -82,13 +82,6 @@ Welcome to the Seismic Data Interpolation API! This API allows you to interpolat
 - 400 Bad Request: Returned when required parameters are missing or invalid.
 - 500 Internal Server Error: Returned when there is an unexpected error on the server side.
 
-## 🤝 Contributing
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-branch-name`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature-branch-name`.
-5. Submit a pull request.
 
 ## 📄 License
 
