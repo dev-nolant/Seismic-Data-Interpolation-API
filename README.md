@@ -40,7 +40,7 @@ Welcome to the Seismic Data Interpolation API! This API allows you to interpolat
 1. Run the Flask application:
 
     ```sh
-    python app.py
+    python _server.py
     ```
 
 2. Make a GET request to the `/search_csv` endpoint with the required parameters:
